@@ -18,11 +18,3 @@ Récupération du cours de python du source forge igm
 
 
 [Complements](https://mybinder.org/v2/gh/UGE-IGM/courspython/master?filepath=Cours%2F5-listes%2F5-listes-complements.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UGE-IGM/courspython/master?filepath=Cours%2F5-listes%2F5-listes-solutions.ipynb)
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UGE-IGM/courspython/master?filepath=Cours%2F1-valeurs-variables-types%2F1-valeurs-variables-types.ipynb)
-
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UGE-IGM/courspython/master?filepath=Cours%2F3-boucles%2F3-boucles_complements.ipynb)
